@@ -96,14 +96,14 @@ height: 35px;line-height: 35px;width: 120px;}
 .remai a{display:block;width: 180px;height: 68px;border-right: 1px solid #999;border-bottom: 1px solid #999;float: left;}
 .remai img{width:180px; height: 68px; }
 
-#tehui{
+.tehui{
 	margin-left: 62px;
 }
-#tehui h1{
+.tehui h1{
 	font-size: 28px;color: #8a4cd3;font-weight: bold;font-family: "Microsoft YaHei";
 }
 
-#tehui2{
+.tehui2{
 	width: 1090px;
 	height: 298px;
 	border-radius: 10px;
@@ -112,13 +112,13 @@ height: 35px;line-height: 35px;width: 120px;}
     float: left;
     margin-top: 15px;
 }
-#tehui2 img{width: 598px;height: 298px;float: left; border-radius:10px 0 0 10px;}
-#tehui2 h3{width:455px;display:block;float: left; font-size:20px ;margin: 21px  0  8px 20px;border-bottom: 1px solid #e5e5e5;color: #666666;}
-#tehui2 p{float: left;display: block;width: 455px;font-size: 13px;margin-left: 20px;line-height: 24px;color: #666666;}
-#tehui .jiage{width:110px; height:30px;margin-left:23px;color: #df2943; font-size: 24px;font-weight: bold;float: left;margin-top: 102px;}
-#tehui .jiage b{font-size: 14px;}
-#tehui .dianji{width: 60px;height: 60px; float: right;margin-top: 77px;margin-right:11px;}
-#tehui .dianji img{width: 60px;height: 60px;}
+.tehui2 img{width: 598px;height: 298px;float: left; border-radius:10px 0 0 10px;}
+.tehui2 h3{width:455px;display:block;float: left; font-size:20px ;margin: 21px  0  8px 20px;border-bottom: 1px solid #e5e5e5;color: #666666;}
+.tehui2 p{float: left;display: block;width: 455px;font-size: 13px;margin-left: 20px;line-height: 24px;color: #666666;}
+.tehui .jiage{width:110px; height:30px;margin-left:23px;color: #df2943; font-size: 24px;font-weight: bold;float: left;margin-top: 102px;}
+.tehui .jiage b{font-size: 14px;}
+.tehui .dianji{width: 60px;height: 60px; float: right;margin-top: 77px;margin-right:11px;}
+.tehui .dianji img{width: 60px;height: 60px;}
 
 
 #hz{width: 1090px;height: 570px;margin-left: 57px;

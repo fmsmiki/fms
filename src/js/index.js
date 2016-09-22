@@ -44,4 +44,10 @@ $(function(){
 	$navli.mouseout(function(){
 		$nav.css('display','none')
 	})
+	$nav.mouseover(function(){
+		$nav.css('display','block')
+	})
+	$nav.mouseout(function(){
+		$nav.css('display','none')
+	})
 })
