@@ -169,3 +169,101 @@ height: 35px;line-height: 35px;}
 #db .shangb1 a{font-size: 11px;color: #999999;text-decoration: none;}
 #db .shangb2 p{display: block;  margin: 0 auto; width: 500px;color: #999999;font-size: 11px;text-align: center;}
 #db .shangb3{margin: 0 auto; width: 460px;}
+
+
+.xiala{
+	width: 139px;
+	height: 312px;
+	background-color: #fff;
+	position: absolute;
+	top: 263px;
+	left: 87px;
+	padding-top: 20px;
+}
+.xiala ul{
+	width: 139px;
+	height: 312px;
+}
+.xiala li{
+	width: 139px;
+	height: 39px;
+	list-style-type: none;
+	text-align: center;
+	
+}
+.xiala li a{
+	font-size: 12px;
+	color: #666666;
+}
+.xiala li img{
+	margin: 0  18px;
+}
+.xiala2{
+	width: 950px;
+	height: 455px;
+	background-color: #FFFFFF;
+	position: absolute;
+	top: 267px;
+	left: 226px;
+	padding-top: 15px;
+	
+}
+
+.xiala2 .list{
+	
+	width: 738px;
+	height: 68px;
+	
+}
+.xiala .list ul{
+	width: 738px;
+}
+.list li{
+	list-style-type: none;
+	float: left;
+	width: 53px;
+	height: 14px;
+}
+.list h3{
+	font-size: 12px;
+	color: #666666;
+	width: 736px;
+	border-bottom: 1px dashed #e4e4e4;
+	padding-bottom: 6px;
+}
+.list li a{
+	font-size: 12px;
+	color: #888888;
+}
+.xiala2-l{
+	float: left;
+}
+.xiala2-r{
+	width: 205px;
+	height: 452px;
+	float: right;
+}
+
+
+.nav-xiala{
+	width: 74px;
+	height: 86px;
+	position: absolute;
+	top:98px;
+	left: 864px;
+	background-color: #FFFFFF;
+	
+}
+.nav-xiala li{
+	width: 74px;
+	height: 20px;
+	list-style-type: none;
+	line-height: 22px;	
+}
+.nav-xiala li a{
+	font-size: 12px;
+	color: #666;
+}
+.nav-xiala a:hover{
+	color: #FF5A00;
+}
