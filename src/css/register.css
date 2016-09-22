@@ -1,0 +1,24 @@
+
+
+.zc{background-color: #ebebeb;width: 1265px;height: 631px;padding-top: 18px;}
+.zc-box{width: 996px;height: 530px;background: #fff;margin: 0 auto;}
+.zc-ul{width: 996px;height: 35px;margin: 0 auto;
+		padding-left:175px ;
+}
+.zc-ul li{width: 240px;height: 35px;background: #f8f8f8;
+		float: left;margin: 0 5px;text-align: center;
+		line-height: 35px;
+}
+.zc-ul .li1{border-top:3px solid #ff9900;background: #FFFFFF;height: 32px;float: left;}
+.zc-left{position: relative; padding-top: 36px; padding-left: 89px;width:495px;height:490px ;float: left;}
+.zc-right{ float: right;width: 410px;height: 526px;padding-top: 18px;}
+.zc p input{ width: 274px;height: 34px;font-size: 12px; color: #666;}
+.zc p{text-align:right;width: 350px; line-height: 26px;height: 62px;color: #666;font-size:12px;}
+.zc .yzm{ width: 124px;}
+.zc .dx{ width: 124px;}
+.yzm1{position:absolute;left:357px;border: 2px solid #e2e2e2; width: 96px;height: 32px;background-image:url(img/zc.jpg);display: inline-block;}
+.zxv{position: absolute;top: 222px;left: -62px;}
+.zxc{position: absolute;top:276px ; left: -62px;}
+.btn{ margin:15px 0;width: 223px;height: 38px;background-color: #ff5a00;border: 1px solid #ff5a00;border-radius: 3px ;}
+.tijiao{float: right;width: 284px;height: 145px;font-size: 12px;padding-top: 122px;margin-right: 150px;}
+#font{font-size: 14px;color: #FFFFFF;font-weight:bold ;}

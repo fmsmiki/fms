@@ -1,0 +1,45 @@
+
+.login{width:100%px;height: 100%;background-color: #ececec;}
+.dl{width: 1265px;height: 530px;}
+.dl-top{width: 1187px;padding-left: 317px;margin-top: 20px;}
+.dl-top span{width: 240px;height: 35px;
+			line-height: 35px;text-align: center;
+			display: inline-block;
+			background-color: #f8f8f8;}
+.dl-top .border{border-top: 3px solid #ff9900;background-color: #FFFFFF;}
+.dl-bott{ width: 997px;height: 431px;background-color: #FFFFFF;margin: 0 auto;}
+.bott-left{margin-left: 72px;margin-top: 107px;
+			width: 330;height: 176px;
+			float: left;
+			}
+.bott-right{
+	margin-top: 57px;
+	width: 378px;
+	height: 344px;
+	float: right;
+	position: relative;
+}
+.bott-right p{
+	font-size: 11px; 
+	color: #666666;
+	height: 58px;
+	line-height: 35px;
+	
+	}
+.bott-right input{
+	width: 273px;
+	height: 33px;
+	font-size: 12px;
+	color: #999999;
+}
+.right1{float: left;
+		text-align: right;
+}
+.right2{float: left;
+		text-align: left;
+	}
+	
+.check input{width: 15px;}
+.tj input{font-size:14px; color:#fff;width: 229px;height: 39px;background-color: #ff5a00;border: 1px solid #ff5a00;}
+.yzm3 input{width: 125px;}
+.yzm2{ text-align: center;line-height: 33px; background-image: url(../img/zc4.jpg);  position: absolute;top: 118px;left: 190px;width: 97px;height: 31px;border: 1px solid #DDDDDD;}

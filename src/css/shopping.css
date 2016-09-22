@@ -1,0 +1,172 @@
+
+
+.shopping{
+	width: 100%;
+	height: 100%;
+	background-color: #ECECEC;
+}
+.che{
+	width: 1006px;
+	height: 60px;
+}
+.gwc{
+	width: 1006px;
+	height: 100%;
+	margin: 0 auto;
+	color: #555555;
+}
+.gwc1{
+	width: 1006px;
+	height: 245px;
+	background-color: #f8f8f8;
+}
+.sc{
+	width: 976px;
+	height: 42px;
+	background-color: #f8f8f8;
+	padding-left: 30px;
+	height: 42px;
+	line-height: 42px;
+	border-bottom: 1px solid #e5e5e5;
+}
+.sc h2{
+	float: left;
+	font-size: 18px;
+	
+}
+.sc span{
+	float: left;
+	font-size: 12px;
+	
+}
+.sc ul{
+	float: right;
+}
+.sc li{
+	float: left;
+	width: 128px;
+	font-size: 12px;
+	height: 42px;
+	line-height: 42px;
+}
+.wupin{
+	width: 1006px;
+	height: 150px;
+	background-color: #FFFFFF;
+}
+.wupin-left{
+	width: 75px;
+	height: 75px;
+	float: left;
+	margin-left: 35px;
+	margin-top: 20px;
+}
+.wupin-left img{
+	width: 75px;
+	height: 75px;
+}
+.wupin-right1{
+	margin-top: 45px;
+	font-size: 12px;
+	float: left;
+	margin-left: 5px;
+}
+.right3 ul{
+	float: right;
+	
+}
+.right3 li{
+	float: left;
+	width: 128px;
+	font-size: 12px;
+	height: 75px;
+	line-height: 100px;
+}
+.shu{
+	width: 24px;
+	height: 24px;
+	border: 1px solid #c8c7cc;
+	float: left;
+	line-height: 24px;
+	text-align: center;
+	margin-top: 36px;
+}
+.bottom{
+	width: 864px;
+	height: 40px;
+	background-color: #f0f9ff;
+	margin-top: 25px;
+	float: left;
+}
+.bottom p{
+	height: 40px;
+	line-height: 40px;
+	color: #0086dd;
+	font-size: 12px;
+}
+.bottom1 ul{
+	float: right;
+}
+.bottom1 li{
+	float: left;
+	width: 128px;
+	font-size: 12px;
+	height: 42px;
+	line-height: 70px;
+}
+.dd{
+	width: 1006px;
+	height: 114px;
+	border: 1px solid #d1d1d1;
+	margin-top: 20px;
+	
+}
+.dd-top{
+	width: 948;
+	height: 57px;
+	background-color:#FFFFFF ;
+	padding-left: 58px;
+}
+.dd-bot{
+	width: 1006;
+	height: 57px;
+	background-color:#f2f2f2 ;
+}
+.inp{
+	margin-top: 9px;
+	float: left;
+}
+#yhm{
+	width: 238px;
+	height: 36px;
+	border: 1px solid #D1D1D1;
+	float: left;
+}
+#shiy{
+	width: 80px;
+	height: 38px;
+	background-color: #ff5c00;
+	float: left;
+	border: 1px solid #ff5c00;
+	color: #fff;
+	font-size: 14px;
+}
+.sp{
+	margin-left: 302px;
+	font-size: 12px;
+}
+.dd-bot{
+	line-height: 50px;
+}
+.que{
+	font-size: 12px;
+	float: right;
+}
+.lft{
+	float: left;
+}
+.lft a{
+	font-size: 12px;
+	color: #057bd2;
+	margin-left: 30px;
+}
