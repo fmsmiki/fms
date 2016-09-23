@@ -49,5 +49,7 @@ $(function(){
 	})
 	$nav.mouseout(function(){
 		$nav.css('display','none')
-	})
+	});
+	//轮播图
+	$('#lunbo').myFocus(  {imgs:['img/lunbo1.jpg','img/lunbo2.jpg','img/lunbo3.jpg' ] } ) ;
 })

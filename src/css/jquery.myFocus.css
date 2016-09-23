@@ -1,0 +1,52 @@
+    .tupianlunbo{
+        height:385px; 
+        width:600px; 
+        float:left;
+        overflow:hidden;}  
+    .bigpic {
+        height: 320px;
+    }
+    .bigpic img
+    {
+        width:1090px;
+        height:350px;
+    } 
+    .bigpic li {
+        position: absolute;
+    }
+    
+    .smallpic {
+        margin-top: 10px;
+    }
+    
+    .smallpic li {
+        display: inline-block;
+    }
+    
+    .smallpic img {
+        width: 120px;
+    }
+    
+    .prev,
+    .next {
+        position: absolute;
+        left: 10px;
+        top: 50%;
+        margin-top: -40px;
+        padding: 10px;
+        background: rgba(0, 0, 0, .2);
+        font-size: 30px;
+        color: #ccc;
+        text-decoration: none;
+    }
+    
+    .next {
+        left: auto;
+        right: 10px;
+    }
+    
+    .prev:hover,
+    .next:hover {
+        background-color: rgba(0, 0, 0, .5);
+    }
+    li{ list-style-type: none;}

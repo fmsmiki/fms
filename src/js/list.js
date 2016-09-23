@@ -58,12 +58,16 @@ $(function(){
             $(window).on('scroll',function(){
 				var scrollTop = $(window).scrollTop();
 
-				// 懒加载：滚动《快到底部》的时候再加载
-				if(scrollTop >= $(document).height() - $(window).height() - 600){
+				
+				
+					if(scrollTop >= $(document).height() - $(window).height() - 500){
 				
 
 					aJax();
 				}
+				
+				// 懒加载：滚动《快到底部》的时候再加载
+				
 			});
 
 			// 手动触发滚动事件
