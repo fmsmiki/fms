@@ -17,7 +17,7 @@
 }
 .gwc1{
 	width: 1006px;
-	height: 245px;
+	height: 100%;
 	background-color: #f8f8f8;
 }
 .sc{
@@ -70,6 +70,11 @@
 	font-size: 12px;
 	float: left;
 	margin-left: 5px;
+}
+.right3{
+	width: 512px;
+height: 75px;
+float: right;
 }
 .right3 ul{
 	float: right;

@@ -60,7 +60,7 @@ $(function(){
 
 				
 				
-					if(scrollTop >= $(document).height() - $(window).height() - 500){
+					if(scrollTop >= $(document).height() - $(window).height() - 900){
 				
 
 					aJax();
